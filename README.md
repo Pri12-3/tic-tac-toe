@@ -1,5 +1,4 @@
-Dynamic Tic Tac Toe in Javascript; 3x3 Boards (2 Players options)
-
+### Dynamic Tic Tac Toe in Javascript; 3x3 Boards (2 Players options)
 
 ## Live URL: 
 https://pri12-3.github.io/tic-tac-toe/
